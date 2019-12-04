@@ -7,4 +7,14 @@
     <string name="toggle_turn_on">NN:On</string>
     <string name="toggle_turn_off">NN:Off</string>
     <string name="toggle">Use NNAPI</string>
+
+    <!--Button Name -->
+    <!-- Button Name -->
+    <string name="camera_btn">ক্যামেরা দিয়ে দেখুন</string>
+    <string name="filepicker_btn">ছবি নির্বাচন করুন</string>
+
+
+    <!-- Image contentDescription -->
+    <string name="welcome_img">Welcome Image</string>
+
 </resources>

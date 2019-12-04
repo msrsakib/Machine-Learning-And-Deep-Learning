@@ -1,5 +1,2 @@
-daisy
-dandelion
-roses
-sunflowers
-tulips
+apple_scab
+green_mould

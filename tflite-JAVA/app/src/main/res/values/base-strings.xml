@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">TensorFlow Lite</string>
+    <string name="app_name">Fruit Disease Detector</string>
     <string name="intro_message">
         <![CDATA[
         
